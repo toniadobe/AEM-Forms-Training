@@ -15,7 +15,7 @@
 You will need to get it provisioned.
 
   1. You can request provisioning by contacting: <https://provisioninghub.corp.adobe.com/> (VPN required)
-  2. For more information on Sandbox Provisioning, please refer to Bridget's XSC Enablement Playbook  [![​Folder icon](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAHYcAAB2HAY/l8WUAAABnSURBVFhH7dFBCsAgDETRHEs9UD1lVr1VNpVCs6qLMAoKTuBvxwcKr5T0IOWc7m9i7Hrj0aYgfMzMwqnqD4O2DwCp1qsLjOQbMGDk8Tffgb5gRgQQQAABBBBAAAEE7AdY1XrA4SfSAB0mB0vVCTxWAAAAAElFTkSuQmCC) here](https://adobe-my.sharepoint.com/:o:/r/personal/bportela_adobe_com/Documents/XSC%20Enablement%20Ramp%20Playbook?d=wdbcfcd960e454bce87bda06ac133ec7a&csf=1&web=1&e=bucE1e).
+  2. For more information on Sandbox Provisioning, please refer to Bridget's XSC Enablement Playbook  [here](https://adobe-my.sharepoint.com/:o:/r/personal/bportela_adobe_com/Documents/XSC%20Enablement%20Ramp%20Playbook?d=wdbcfcd960e454bce87bda06ac133ec7a&csf=1&web=1&e=bucE1e).
 
 ## Enable AEM Forms on your CS sandbox
 
